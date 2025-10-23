@@ -23,5 +23,12 @@
       "7.0.1",
       "7.0.2"
     ]
+  },
+  {
+    "module" : "com.zaxxer:HikariCP",
+    "metadata-version" : "6.3.3",
+    "tested-versions" : [
+      "6.3.3"
+    ]
   }
 ]
