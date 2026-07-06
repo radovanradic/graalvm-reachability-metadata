@@ -359,6 +359,12 @@
     "versions" : [ "10.1.7" ]
   } ]
 }, {
+  "test-project-path" : "org.apache.tomcat/tomcat-jdbc/10.1.28",
+  "libraries" : [ {
+    "name" : "org.apache.tomcat:tomcat-jdbc",
+    "versions" : [ "10.1.28" ]
+  } ]
+}, {
   "test-project-path" : "org.bouncycastle/bcpkix-jdk15on/1.70",
   "libraries" : [ {
     "name" : "org.bouncycastle:bcpkix-jdk15on",

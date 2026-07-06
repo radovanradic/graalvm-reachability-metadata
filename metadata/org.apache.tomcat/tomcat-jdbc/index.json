@@ -1,6 +1,13 @@
 [
   {
     "latest": true,
+    "metadata-version": "10.1.28",
+    "module": "org.apache.tomcat:tomcat-jdbc",
+    "tested-versions": [
+      "10.1.28"
+    ]
+  },
+  {
     "metadata-version": "10.1.7",
     "module": "org.apache.tomcat:tomcat-jdbc",
     "tested-versions": [
